@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG1665
   title: ཐེག་པ་ཆེན་པོ་རྒྱུད་བླ་མའི་བསྟན་བཅོས་རྩ་འགྲེལ་
-  volume: ''
+  volume:
+    031fdec458d2427d83decf7c3f0835cf:
+      image_group_id: I1KG1842
+      title: Volume 1 of theg pa chen po rgyud bla ma'i bstan bcos rtsa 'grel
+      volume_number: 1
+      total_pages: 354
   author: ''
+ebook_metadata:
+  title: ཐེག་པ་ཆེན་པོ་རྒྱུད་བླ་མའི་བསྟན་བཅོས་རྩ་འགྲེལ་
+  author: ''
+  sku: P000389
+  cover: cover.jpg
+  layers:
+  - pagination

@@ -1,5 +1,7 @@
 id: P000389
 initial_creation_type: ocr
+created_at: 17/03/2020
+last_modified_at: 24/11/2021
 source_metadata:
   id: bdr:W1KG1665
   title: ཐེག་པ་ཆེན་པོ་རྒྱུད་བླ་མའི་བསྟན་བཅོས་རྩ་འགྲེལ་
@@ -11,10 +13,3 @@ source_metadata:
       volume_number: 1
       total_pages: 354
       base_file: v001.txt
-ebook_metadata:
-  title: ཐེག་པ་ཆེན་པོ་རྒྱུད་བླ་མའི་བསྟན་བཅོས་རྩ་འགྲེལ་
-  author: ''
-  sku: P000389
-  cover: cover.jpg
-  layers:
-  - pagination
